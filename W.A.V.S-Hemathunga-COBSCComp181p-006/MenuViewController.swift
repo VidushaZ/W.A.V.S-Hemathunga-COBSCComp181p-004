@@ -12,7 +12,7 @@ class MenuViewController: UITableViewController {
 
     override func viewDidLoad() { 
         super.viewDidLoad()
-
+         //self.tableView.backgroundColor = UIColor.lightGray
         // Do any additional setup after loading the view.
     }
     
