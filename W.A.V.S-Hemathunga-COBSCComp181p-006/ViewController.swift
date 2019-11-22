@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  S.A-Wijethunga-COBSCComp181p-004
+//  W.A.V.S-Hemathunga-COBSCComp181p-006
 //
 //  Created by Digital-02 on 11/14/19.
 //  Copyright © 2019 Digital-02. All rights reserved.
