@@ -1,0 +1,6 @@
+framework module Pods_W_A_V_S_Hemathunga_COBSCComp181p_006 {
+  umbrella header "Pods-W.A.V.S-Hemathunga-COBSCComp181p-006-umbrella.h"
+
+  export *
+  module * { export * }
+}
